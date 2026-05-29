@@ -18,7 +18,12 @@
 
 ![GhostLayer UI Preview](assets/screenshot.png)
 
-> 📹 Video demo coming soon — see [`assets/demo_video.mp4`](assets/demo_video.mp4)
+### Video Demo
+<div align="center">
+  <video src="assets/demo_video.mp4" controls="controls" width="100%" style="max-width: 750px; border-radius: 8px;">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ---
 
@@ -63,7 +68,7 @@ C:\Program Files\Tor\tor.exe
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/GhostLayer.git
+git clone https://github.com/akrem-dev-ops/GhostLayer.git
 cd GhostLayer
 ```
 
@@ -113,6 +118,8 @@ This project is licensed under the **MIT License** — see [`LICENSE`](LICENSE) 
 
 *Built for privacy engineers, red teamers, and the anonymity-conscious.*
 
-**[⭐ Star this repo](https://github.com/your-username/GhostLayer)** if you find it useful.
+Developed with 💻 by **[Akrem Chikhaoui](https://www.linkedin.com/in/akrem-chikhaoui)**
+
+**[⭐ Star this repo](https://github.com/akrem-dev-ops/GhostLayer)** if you find it useful.
 
 </div>
