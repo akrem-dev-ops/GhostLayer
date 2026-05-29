@@ -19,6 +19,11 @@
 ![GhostLayer UI Preview](assets/screenshot.png)
 
 ### Video Demo
+
+
+https://github.com/user-attachments/assets/1a2f8057-381c-4c7d-8537-c7c3bc1ea12d
+
+
 <div align="center">
   <video src="https://github.com/akrem-dev-ops/GhostLayer/raw/main/assets/demo_video.mp4" controls="controls" width="100%" style="max-width: 750px; border-radius: 8px;">
     Your browser does not support the video tag.
