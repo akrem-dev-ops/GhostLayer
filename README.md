@@ -20,7 +20,7 @@
 
 ### Video Demo
 <div align="center">
-  <video src="assets/demo_video.mp4" controls="controls" width="100%" style="max-width: 750px; border-radius: 8px;">
+  <video src="https://github.com/akrem-dev-ops/GhostLayer/raw/main/assets/demo_video.mp4" controls="controls" width="100%" style="max-width: 750px; border-radius: 8px;">
     Your browser does not support the video tag.
   </video>
 </div>
